@@ -17,4 +17,6 @@ gem 'pg', group: :production
 group :test, :development do
   gem 'rspec-rails'
   gem 'pry-rails'
+  gem 'shoulda-matchers'
+  gem 'valid_attribute'
 end
