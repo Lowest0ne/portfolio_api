@@ -19,4 +19,5 @@ group :test, :development do
   gem 'pry-rails'
   gem 'shoulda-matchers'
   gem 'valid_attribute'
+  gem 'factory_girl'
 end
